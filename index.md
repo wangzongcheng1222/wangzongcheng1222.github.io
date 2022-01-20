@@ -13,7 +13,7 @@
 ### 音乐
 
 <style>
-h2{font－family: 宋体;
+h4{font－family: 宋体;
 font－weight:normal;}
 </style>
-<h2>测试字体</h2>
+<h4>测试字体</h4>
