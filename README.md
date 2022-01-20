@@ -1,2 +1,2 @@
-我的[学习记录主页](wangzongcheng1222.github.io)
+我的[学习记录主页](https://wangzongcheng1222.github.io)
 
