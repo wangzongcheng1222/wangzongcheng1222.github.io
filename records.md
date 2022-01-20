@@ -1,3 +1,1 @@
-layout: page
-title: "PAGE TITLE"
-permalink: /record
+[返回](./)
