@@ -1,10 +1,12 @@
 ## 每日学习记录
 
-[记录页面](./records.html)
+[记录页面](./records.html) <small>&nbsp;</small> [打卡页面](./clock_in.html)
+<br></br>
 
 ## 学习笔记
 
-
+[笔记](./notes.html)
+<br></br>
 
 ## 菜鸡的学习规划
 
@@ -25,7 +27,7 @@
 5. 电子琴：
 6. Logic Pro：Udemy 视频.
 
-### 补数学基础 <h5>&nbsp;2022寒假 </h5>
+### 补数学基础 <small>&nbsp;2022寒假 </small>
 简单复习上学期的课程(点集拓扑、测度论、抽象代数、矩阵论、最优化、微分流形)
 
 
