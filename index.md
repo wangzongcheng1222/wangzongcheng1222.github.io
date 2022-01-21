@@ -21,7 +21,7 @@
 1. 音乐欣赏：2022年听100张专辑.
 2. 视奏与视唱练耳：Tenuto、MyEarTraining App；通过乐器练习.
 3. 和声学：NiceChord 视频；图解和声，叶小胖.
-4. 乐器(木吉他、电子琴)：Udemy、B站等视频；吉他入门经典教程，李国标；PSR-E373 Song Book；练习歌曲.
+4. 乐器(木吉他、电子琴)：Udemy、B站等视频；吉他入门经典教程，李国标；PSR-E373 Song Book；练习弹唱歌曲.
 5. Logic Pro：Udemy 视频；改编歌曲.
 
 ### 补数学基础 <small>&nbsp;2022寒假 </small>
