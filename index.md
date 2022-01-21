@@ -16,6 +16,15 @@
 
 ### 音乐
 
+### 听说你想和我交个朋友
+
+微信: Solswzc &nbsp QQ: 1277145165\\
+[知乎&nbsp;](https://www.zhihu.com/people/dong-zhi-qing-lie)
+[网易云音乐&nbsp;](https://music.163.com/#/user/home?id=4874054347)
+[豆瓣&nbsp;](https://www.douban.com/people/231742715)
+[bilibili&nbsp;](https://space.bilibili.com/1737715113)
+[GitHub&nbsp;](https://github.com/wangzongcheng1222)
+
 
 
 
