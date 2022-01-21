@@ -1,12 +1,10 @@
 ## 每日学习记录
 
 [记录页面](./records.html) <small>&nbsp;</small> [打卡页面](./clock_in.html)
-<br>
 
 ## 学习笔记
 
 [笔记](./notes.html)
-<br>
 
 ## 菜鸡的学习规划
 
