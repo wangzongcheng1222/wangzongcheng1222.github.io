@@ -4,7 +4,7 @@
   margin: auto;
   } </style>
 
-|日期|<small>木吉他</small>|<small>电子琴</small>|<small>视唱练耳</small>|<small>识谱</small>|<small>俯卧撑</small>|
+|日期|木吉他|电子琴|视唱练耳|识谱|俯卧撑|
 |---|---|---|---|---|---|
 |20220122| | | | | |
 |20220121|✓| | | | |
