@@ -2,6 +2,8 @@
 
 ### 2022年3月
 
+20220309：《Think Python》中文版 P144～P178。
+
 20220308：《Think Python》中文版 P122～P144。
 
 20220307：《Think Python》中文版 P65～P122。
